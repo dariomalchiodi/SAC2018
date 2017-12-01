@@ -1,0 +1,416 @@
+1444 data items
+non PSD matrix: diagonal adjusment of 292.405301431
+starting experiments for fuzzifier $\hat\mu_{\text{crisp}}$
+holdout 0 of 10
+for C=100 optimization did not succeed
+in holdout 0 best C is 0.1
+holdout 1 of 10
+in holdout 1 best C is 0.1
+holdout 2 of 10
+in holdout 2 best C is 0.3
+holdout 3 of 10
+for C=10 optimization did not succeed
+in holdout 3 best C is 0.3
+holdout 4 of 10
+in holdout 4 best C is 0.1
+holdout 5 of 10
+in holdout 5 best C is 1
+holdout 6 of 10
+for C=100 optimization did not succeed
+in holdout 6 best C is 0.1
+holdout 7 of 10
+in holdout 7 best C is 0.3
+holdout 8 of 10
+for C=10 optimization did not succeed
+for C=100 optimization did not succeed
+in holdout 8 best C is 0.1
+holdout 9 of 10
+for C=10 optimization did not succeed
+for C=100 optimization did not succeed
+in holdout 9 best C is 0.3
+Membership average values:
+RMSE: 0.3772679391
+Median: 0.0
+STDEV: 0.332505046899
+Possibility average values:
+RMSE: 0.57184692688
+Median: 0.000756177332503
+STDEV: 0.61136959333
+experiments for fuzzifier $\hat\mu_{\text{crisp}}$ ended
+starting experiments for fuzzifier $\hat\mu_{\text{lin}}$
+holdout 0 of 10
+in holdout 0 best C is 0.005
+holdout 1 of 10
+in holdout 1 best C is 0.005
+holdout 2 of 10
+in holdout 2 best C is 0.005
+holdout 3 of 10
+in holdout 3 best C is 0.005
+holdout 4 of 10
+for C=100 optimization did not succeed
+in holdout 4 best C is 0.005
+holdout 5 of 10
+for C=100 optimization did not succeed
+in holdout 5 best C is 0.03
+holdout 6 of 10
+for C=10 optimization did not succeed
+in holdout 6 best C is 0.005
+holdout 7 of 10
+in holdout 7 best C is 0.005
+holdout 8 of 10
+in holdout 8 best C is 0.005
+holdout 9 of 10
+in holdout 9 best C is 0.005
+Membership average values:
+RMSE: 0.312511249357
+Median: 0.0040853743939
+STDEV: 0.191423537459
+Possibility average values:
+RMSE: 0.489967394554
+Median: 0.0605445828616
+STDEV: 0.380489090505
+experiments for fuzzifier $\hat\mu_{\text{lin}}$ ended
+starting experiments for fuzzifier $\hat\mu_{\text{qconst}}$
+holdout 0 of 10
+in holdout 0 best C is 0.007
+holdout 1 of 10
+for C=100 optimization did not succeed
+in holdout 1 best C is 0.05
+holdout 2 of 10
+for C=100 optimization did not succeed
+in holdout 2 best C is 0.1
+holdout 3 of 10
+in holdout 3 best C is 0.05
+holdout 4 of 10
+in holdout 4 best C is 0.05
+holdout 5 of 10
+in holdout 5 best C is 0.007
+holdout 6 of 10
+in holdout 6 best C is 0.01
+holdout 7 of 10
+in holdout 7 best C is 1
+holdout 8 of 10
+for C=10 optimization did not succeed
+for C=100 optimization did not succeed
+in holdout 8 best C is 0.05
+holdout 9 of 10
+for C=10 optimization did not succeed
+in holdout 9 best C is 0.1
+Membership average values:
+RMSE: 0.313586027307
+Median: 0.00784707599837
+STDEV: 0.179122045003
+Possibility average values:
+RMSE: 0.490891954498
+Median: 0.0840113265308
+STDEV: 0.369728481218
+experiments for fuzzifier $\hat\mu_{\text{qconst}}$ ended
+starting experiments for fuzzifier $\hat\mu_{\text{qlin}}$
+holdout 0 of 10
+for C=100 optimization did not succeed
+in holdout 0 best C is 0.01
+holdout 1 of 10
+in holdout 1 best C is 0.01
+holdout 2 of 10
+in holdout 2 best C is 0.03
+holdout 3 of 10
+for C=100 optimization did not succeed
+in holdout 3 best C is 0.01
+holdout 4 of 10
+in holdout 4 best C is 0.007
+holdout 5 of 10
+for C=10 optimization did not succeed
+in holdout 5 best C is 0.01
+holdout 6 of 10
+for C=100 optimization did not succeed
+in holdout 6 best C is 0.007
+holdout 7 of 10
+for C=10 optimization did not succeed
+for C=100 optimization did not succeed
+in holdout 7 best C is 0.01
+holdout 8 of 10
+in holdout 8 best C is 0.007
+holdout 9 of 10
+for C=10 optimization did not succeed
+for C=100 optimization did not succeed
+in holdout 9 best C is 0.007
+Membership average values:
+RMSE: 0.31425658588
+Median: 0.0138134589946
+STDEV: 0.164461253044
+Possibility average values:
+RMSE: 0.490804189914
+Median: 0.106666793683
+STDEV: 0.33367973616
+experiments for fuzzifier $\hat\mu_{\text{qlin}}$ ended
+starting experiments for fuzzifier $\hat\mu_{\text{exp},0.001}$
+holdout 0 of 10
+for C=100 optimization did not succeed
+in holdout 0 best C is 0.1
+holdout 1 of 10
+in holdout 1 best C is 0.3
+holdout 2 of 10
+in holdout 2 best C is 0.5
+holdout 3 of 10
+in holdout 3 best C is 0.7
+holdout 4 of 10
+in holdout 4 best C is 1
+holdout 5 of 10
+for C=10 optimization did not succeed
+for C=100 optimization did not succeed
+in holdout 5 best C is 0.3
+holdout 6 of 10
+for C=10 optimization did not succeed
+in holdout 6 best C is 0.07
+holdout 7 of 10
+for C=10 optimization did not succeed
+in holdout 7 best C is 0.5
+holdout 8 of 10
+for C=10 optimization did not succeed
+for C=100 optimization did not succeed
+in holdout 8 best C is 0.1
+holdout 9 of 10
+in holdout 9 best C is 0.5
+Membership average values:
+RMSE: 0.362286662126
+Median: 4.99616325643e-19
+STDEV: 0.321321521981
+Possibility average values:
+RMSE: 0.551167055643
+Median: 0.00084544099775
+STDEV: 0.594663378342
+experiments for fuzzifier $\hat\mu_{\text{exp},0.001}$ ended
+starting experiments for fuzzifier $\hat\mu_{\text{exp},0.005}$
+holdout 0 of 10
+in holdout 0 best C is 0.07
+holdout 1 of 10
+in holdout 1 best C is 0.05
+holdout 2 of 10
+in holdout 2 best C is 1
+holdout 3 of 10
+in holdout 3 best C is 0.1
+holdout 4 of 10
+in holdout 4 best C is 0.1
+holdout 5 of 10
+in holdout 5 best C is 0.5
+holdout 6 of 10
+in holdout 6 best C is 1
+holdout 7 of 10
+in holdout 7 best C is 0.3
+holdout 8 of 10
+in holdout 8 best C is 0.5
+holdout 9 of 10
+in holdout 9 best C is 0.05
+Membership average values:
+RMSE: 0.392286940022
+Median: 4.19214051134e-14
+STDEV: 0.344147807257
+Possibility average values:
+RMSE: 0.604331978331
+Median: 0.000894275477852
+STDEV: 0.700069503622
+experiments for fuzzifier $\hat\mu_{\text{exp},0.005}$ ended
+starting experiments for fuzzifier $\hat\mu_{\text{exp},0.070}$
+holdout 0 of 10
+for C=10 optimization did not succeed
+for C=100 optimization did not succeed
+in holdout 0 best C is 0.1
+holdout 1 of 10
+in holdout 1 best C is 0.07
+holdout 2 of 10
+in holdout 2 best C is 0.07
+holdout 3 of 10
+in holdout 3 best C is 100
+holdout 4 of 10
+for C=10 optimization did not succeed
+for C=100 optimization did not succeed
+in holdout 4 best C is 0.1
+holdout 5 of 10
+for C=100 optimization did not succeed
+in holdout 5 best C is 0.1
+holdout 6 of 10
+in holdout 6 best C is 0.1
+holdout 7 of 10
+in holdout 7 best C is 0.07
+holdout 8 of 10
+for C=10 optimization did not succeed
+in holdout 8 best C is 0.1
+holdout 9 of 10
+for C=100 optimization did not succeed
+in holdout 9 best C is 0.07
+Membership average values:
+RMSE: 0.3859546678
+Median: 1.27936894787e-06
+STDEV: 0.332622765253
+Possibility average values:
+RMSE: 0.596674633186
+Median: 0.00134619093766
+STDEV: 0.674542431179
+experiments for fuzzifier $\hat\mu_{\text{exp},0.070}$ ended
+starting experiments for fuzzifier $\hat\mu_{\text{exp},0.100}$
+holdout 0 of 10
+in holdout 0 best C is 0.07
+holdout 1 of 10
+in holdout 1 best C is 0.3
+holdout 2 of 10
+for C=100 optimization did not succeed
+in holdout 2 best C is 0.1
+holdout 3 of 10
+in holdout 3 best C is 10
+holdout 4 of 10
+in holdout 4 best C is 0.07
+holdout 5 of 10
+in holdout 5 best C is 0.5
+holdout 6 of 10
+in holdout 6 best C is 0.07
+holdout 7 of 10
+in holdout 7 best C is 0.1
+holdout 8 of 10
+for C=100 optimization did not succeed
+in holdout 8 best C is 0.07
+holdout 9 of 10
+in holdout 9 best C is 0.07
+Membership average values:
+RMSE: 0.392272801457
+Median: 1.52815184633e-05
+STDEV: 0.33101687784
+Possibility average values:
+RMSE: 0.60866384382
+Median: 0.00302508467065
+STDEV: 0.653509395682
+experiments for fuzzifier $\hat\mu_{\text{exp},0.100}$ ended
+starting experiments for fuzzifier $\hat\mu_{\text{exp},0.200}$
+holdout 0 of 10
+for C=10 optimization did not succeed
+in holdout 0 best C is 0.05
+holdout 1 of 10
+in holdout 1 best C is 0.07
+holdout 2 of 10
+in holdout 2 best C is 0.05
+holdout 3 of 10
+in holdout 3 best C is 0.05
+holdout 4 of 10
+in holdout 4 best C is 0.05
+holdout 5 of 10
+in holdout 5 best C is 0.05
+holdout 6 of 10
+in holdout 6 best C is 0.05
+holdout 7 of 10
+in holdout 7 best C is 0.05
+holdout 8 of 10
+for C=100 optimization did not succeed
+in holdout 8 best C is 0.07
+holdout 9 of 10
+in holdout 9 best C is 0.05
+Membership average values:
+RMSE: 0.339018858336
+Median: 0.000234505593334
+STDEV: 0.257152156171
+Possibility average values:
+RMSE: 0.528029517368
+Median: 0.0120380308612
+STDEV: 0.520408322074
+experiments for fuzzifier $\hat\mu_{\text{exp},0.200}$ ended
+starting experiments for fuzzifier $\hat\mu_{\text{exp},0.300}$
+holdout 0 of 10
+in holdout 0 best C is 0.07
+holdout 1 of 10
+in holdout 1 best C is 0.07
+holdout 2 of 10
+in holdout 2 best C is 0.05
+holdout 3 of 10
+for C=100 optimization did not succeed
+in holdout 3 best C is 0.03
+holdout 4 of 10
+in holdout 4 best C is 0.05
+holdout 5 of 10
+for C=10 optimization did not succeed
+for C=100 optimization did not succeed
+in holdout 5 best C is 0.05
+holdout 6 of 10
+for C=100 optimization did not succeed
+in holdout 6 best C is 0.05
+holdout 7 of 10
+for C=100 optimization did not succeed
+in holdout 7 best C is 0.03
+holdout 8 of 10
+in holdout 8 best C is 0.07
+holdout 9 of 10
+in holdout 9 best C is 0.05
+Membership average values:
+RMSE: 0.336865742727
+Median: 0.0085359563831
+STDEV: 0.21601695226
+Possibility average values:
+RMSE: 0.531551042577
+Median: 0.0428885329138
+STDEV: 0.463322455988
+experiments for fuzzifier $\hat\mu_{\text{exp},0.300}$ ended
+starting experiments for fuzzifier $\hat\mu_{\text{exp},0.400}$
+holdout 0 of 10
+for C=100 optimization did not succeed
+in holdout 0 best C is 0.005
+holdout 1 of 10
+in holdout 1 best C is 0.03
+holdout 2 of 10
+in holdout 2 best C is 0.005
+holdout 3 of 10
+for C=100 optimization did not succeed
+in holdout 3 best C is 0.007
+holdout 4 of 10
+in holdout 4 best C is 0.03
+holdout 5 of 10
+in holdout 5 best C is 0.005
+holdout 6 of 10
+in holdout 6 best C is 0.03
+holdout 7 of 10
+in holdout 7 best C is 0.005
+holdout 8 of 10
+in holdout 8 best C is 0.005
+holdout 9 of 10
+in holdout 9 best C is 0.005
+Membership average values:
+RMSE: 0.307985202392
+Median: 0.0321904562418
+STDEV: 0.161110593227
+Possibility average values:
+RMSE: 0.485963065255
+Median: 0.0755921701048
+STDEV: 0.377040779861
+experiments for fuzzifier $\hat\mu_{\text{exp},0.400}$ ended
+starting experiments for fuzzifier $\hat\mu_{\text{exp},0.500}$
+holdout 0 of 10
+for C=100 optimization did not succeed
+in holdout 0 best C is 0.007
+holdout 1 of 10
+for C=100 optimization did not succeed
+in holdout 1 best C is 0.005
+holdout 2 of 10
+in holdout 2 best C is 0.007
+holdout 3 of 10
+in holdout 3 best C is 0.005
+holdout 4 of 10
+in holdout 4 best C is 0.005
+holdout 5 of 10
+in holdout 5 best C is 0.007
+holdout 6 of 10
+for C=100 optimization did not succeed
+in holdout 6 best C is 0.005
+holdout 7 of 10
+for C=100 optimization did not succeed
+in holdout 7 best C is 0.007
+holdout 8 of 10
+in holdout 8 best C is 0.007
+holdout 9 of 10
+for C=10 optimization did not succeed
+for C=100 optimization did not succeed
+in holdout 9 best C is 0.01
+Membership average values:
+RMSE: 0.340813033589
+Median: 0.0754249019025
+STDEV: 0.153805690138
+Possibility average values:
+RMSE: 0.53453124495
+Median: 0.170228773709
+STDEV: 0.351747359415
+experiments for fuzzifier $\hat\mu_{\text{exp},0.500}$ ended

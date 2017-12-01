@@ -1,0 +1,362 @@
+1444 data items
+non PSD matrix: diagonal adjusment of 292.405301431
+starting experiments for fuzzifier $\hat\mu_{\text{crisp}}$
+holdout 0 of 10
+in holdout 0 best C is 0.005
+holdout 1 of 10
+in holdout 1 best C is 0.005
+holdout 2 of 10
+in holdout 2 best C is 0.005
+holdout 3 of 10
+in holdout 3 best C is 0.005
+holdout 4 of 10
+in holdout 4 best C is 0.005
+holdout 5 of 10
+in holdout 5 best C is 0.005
+holdout 6 of 10
+in holdout 6 best C is 0.005
+holdout 7 of 10
+in holdout 7 best C is 0.005
+holdout 8 of 10
+in holdout 8 best C is 0.005
+holdout 9 of 10
+in holdout 9 best C is 0.005
+Membership average values:
+RMSE: 0.385554283712
+Median: 0.0
+STDEV: 0.337494675274
+Possibility average values:
+RMSE: 0.57259630596
+Median: 0.00113637019502
+STDEV: 0.536973638214
+experiments for fuzzifier $\hat\mu_{\text{crisp}}$ ended
+starting experiments for fuzzifier $\hat\mu_{\text{lin}}$
+holdout 0 of 10
+in holdout 0 best C is 0.1
+holdout 1 of 10
+in holdout 1 best C is 0.005
+holdout 2 of 10
+in holdout 2 best C is 0.7
+holdout 3 of 10
+in holdout 3 best C is 1
+holdout 4 of 10
+in holdout 4 best C is 1
+holdout 5 of 10
+in holdout 5 best C is 0.005
+holdout 6 of 10
+in holdout 6 best C is 0.01
+holdout 7 of 10
+in holdout 7 best C is 1
+holdout 8 of 10
+in holdout 8 best C is 1
+holdout 9 of 10
+in holdout 9 best C is 0.5
+Membership average values:
+RMSE: 0.346346769542
+Median: 0.00025184305995
+STDEV: 0.268296450772
+Possibility average values:
+RMSE: 0.526885552484
+Median: 0.0280071269777
+STDEV: 0.500917583243
+experiments for fuzzifier $\hat\mu_{\text{lin}}$ ended
+starting experiments for fuzzifier $\hat\mu_{\text{qconst}}$
+holdout 0 of 10
+in holdout 0 best C is 0.005
+holdout 1 of 10
+in holdout 1 best C is 0.03
+holdout 2 of 10
+in holdout 2 best C is 0.005
+holdout 3 of 10
+in holdout 3 best C is 0.005
+holdout 4 of 10
+in holdout 4 best C is 0.005
+holdout 5 of 10
+in holdout 5 best C is 0.07
+holdout 6 of 10
+in holdout 6 best C is 10
+holdout 7 of 10
+in holdout 7 best C is 0.005
+holdout 8 of 10
+in holdout 8 best C is 0.007
+holdout 9 of 10
+in holdout 9 best C is 0.07
+Membership average values:
+RMSE: 0.354470481149
+Median: 0.000108482923756
+STDEV: 0.253813294777
+Possibility average values:
+RMSE: 0.522638539174
+Median: 0.138789085773
+STDEV: 0.394842606484
+experiments for fuzzifier $\hat\mu_{\text{qconst}}$ ended
+starting experiments for fuzzifier $\hat\mu_{\text{qlin}}$
+holdout 0 of 10
+in holdout 0 best C is 0.7
+holdout 1 of 10
+in holdout 1 best C is 0.005
+holdout 2 of 10
+in holdout 2 best C is 0.3
+holdout 3 of 10
+in holdout 3 best C is 0.03
+holdout 4 of 10
+in holdout 4 best C is 0.07
+holdout 5 of 10
+in holdout 5 best C is 1
+holdout 6 of 10
+in holdout 6 best C is 100
+holdout 7 of 10
+in holdout 7 best C is 100
+holdout 8 of 10
+in holdout 8 best C is 0.07
+holdout 9 of 10
+in holdout 9 best C is 0.05
+Membership average values:
+RMSE: 0.35519203986
+Median: 0.00379666838069
+STDEV: 0.242545985351
+Possibility average values:
+RMSE: 0.52520449229
+Median: 0.118714935525
+STDEV: 0.37326628906
+experiments for fuzzifier $\hat\mu_{\text{qlin}}$ ended
+starting experiments for fuzzifier $\hat\mu_{\text{exp},0.001}$
+holdout 0 of 10
+in holdout 0 best C is 0.07
+holdout 1 of 10
+in holdout 1 best C is 0.05
+holdout 2 of 10
+in holdout 2 best C is 0.07
+holdout 3 of 10
+in holdout 3 best C is 0.007
+holdout 4 of 10
+in holdout 4 best C is 100
+holdout 5 of 10
+in holdout 5 best C is 100
+holdout 6 of 10
+in holdout 6 best C is 10
+holdout 7 of 10
+in holdout 7 best C is 0.005
+holdout 8 of 10
+in holdout 8 best C is 0.01
+holdout 9 of 10
+in holdout 9 best C is 0.005
+Membership average values:
+RMSE: 0.384163009153
+Median: 4.60969053655e-18
+STDEV: 0.337662659362
+Possibility average values:
+RMSE: 0.576577982048
+Median: 0.000944239988252
+STDEV: 0.557627611448
+experiments for fuzzifier $\hat\mu_{\text{exp},0.001}$ ended
+starting experiments for fuzzifier $\hat\mu_{\text{exp},0.005}$
+holdout 0 of 10
+in holdout 0 best C is 1
+holdout 1 of 10
+in holdout 1 best C is 0.3
+holdout 2 of 10
+in holdout 2 best C is 10
+holdout 3 of 10
+in holdout 3 best C is 0.007
+holdout 4 of 10
+in holdout 4 best C is 0.03
+holdout 5 of 10
+in holdout 5 best C is 0.3
+holdout 6 of 10
+in holdout 6 best C is 10
+holdout 7 of 10
+in holdout 7 best C is 0.5
+holdout 8 of 10
+in holdout 8 best C is 0.5
+holdout 9 of 10
+in holdout 9 best C is 10
+Membership average values:
+RMSE: 0.415235634176
+Median: 3.75967908099e-07
+STDEV: 0.359813569907
+Possibility average values:
+RMSE: 0.622228719204
+Median: 0.00151161229207
+STDEV: 0.617451575031
+experiments for fuzzifier $\hat\mu_{\text{exp},0.005}$ ended
+starting experiments for fuzzifier $\hat\mu_{\text{exp},0.070}$
+holdout 0 of 10
+in holdout 0 best C is 10
+holdout 1 of 10
+in holdout 1 best C is 0.1
+holdout 2 of 10
+in holdout 2 best C is 100
+holdout 3 of 10
+in holdout 3 best C is 0.07
+holdout 4 of 10
+in holdout 4 best C is 100
+holdout 5 of 10
+in holdout 5 best C is 0.005
+holdout 6 of 10
+in holdout 6 best C is 0.03
+holdout 7 of 10
+in holdout 7 best C is 0.05
+holdout 8 of 10
+in holdout 8 best C is 1
+holdout 9 of 10
+in holdout 9 best C is 0.3
+Membership average values:
+RMSE: 0.401773884817
+Median: 2.74296592021e-06
+STDEV: 0.341267612027
+Possibility average values:
+RMSE: 0.607283598127
+Median: 0.00257819279594
+STDEV: 0.616420742805
+experiments for fuzzifier $\hat\mu_{\text{exp},0.070}$ ended
+starting experiments for fuzzifier $\hat\mu_{\text{exp},0.100}$
+holdout 0 of 10
+in holdout 0 best C is 0.7
+holdout 1 of 10
+in holdout 1 best C is 10
+holdout 2 of 10
+in holdout 2 best C is 0.01
+holdout 3 of 10
+in holdout 3 best C is 0.005
+holdout 4 of 10
+in holdout 4 best C is 0.03
+holdout 5 of 10
+in holdout 5 best C is 0.01
+holdout 6 of 10
+in holdout 6 best C is 0.03
+holdout 7 of 10
+in holdout 7 best C is 1
+holdout 8 of 10
+in holdout 8 best C is 0.01
+holdout 9 of 10
+in holdout 9 best C is 0.05
+Membership average values:
+RMSE: 0.378283853393
+Median: 1.566079798e-05
+STDEV: 0.321099814851
+Possibility average values:
+RMSE: 0.56842716332
+Median: 0.00189819801486
+STDEV: 0.541665044573
+experiments for fuzzifier $\hat\mu_{\text{exp},0.100}$ ended
+starting experiments for fuzzifier $\hat\mu_{\text{exp},0.200}$
+holdout 0 of 10
+in holdout 0 best C is 0.03
+holdout 1 of 10
+in holdout 1 best C is 0.07
+holdout 2 of 10
+in holdout 2 best C is 100
+holdout 3 of 10
+in holdout 3 best C is 0.7
+holdout 4 of 10
+in holdout 4 best C is 0.05
+holdout 5 of 10
+in holdout 5 best C is 1
+holdout 6 of 10
+in holdout 6 best C is 0.5
+holdout 7 of 10
+in holdout 7 best C is 0.7
+holdout 8 of 10
+in holdout 8 best C is 1
+holdout 9 of 10
+in holdout 9 best C is 0.01
+Membership average values:
+RMSE: 0.372225309731
+Median: 0.000164967116188
+STDEV: 0.296438961864
+Possibility average values:
+RMSE: 0.551565154374
+Median: 0.0117748890498
+STDEV: 0.472195253534
+experiments for fuzzifier $\hat\mu_{\text{exp},0.200}$ ended
+starting experiments for fuzzifier $\hat\mu_{\text{exp},0.300}$
+holdout 0 of 10
+in holdout 0 best C is 100
+holdout 1 of 10
+in holdout 1 best C is 0.05
+holdout 2 of 10
+in holdout 2 best C is 0.3
+holdout 3 of 10
+in holdout 3 best C is 10
+holdout 4 of 10
+in holdout 4 best C is 0.5
+holdout 5 of 10
+in holdout 5 best C is 100
+holdout 6 of 10
+in holdout 6 best C is 0.7
+holdout 7 of 10
+in holdout 7 best C is 0.7
+holdout 8 of 10
+in holdout 8 best C is 100
+holdout 9 of 10
+in holdout 9 best C is 1
+Membership average values:
+RMSE: 0.345230701962
+Median: 0.01158227887
+STDEV: 0.235309087989
+Possibility average values:
+RMSE: 0.508386488187
+Median: 0.0775435395653
+STDEV: 0.362314619579
+experiments for fuzzifier $\hat\mu_{\text{exp},0.300}$ ended
+starting experiments for fuzzifier $\hat\mu_{\text{exp},0.400}$
+holdout 0 of 10
+in holdout 0 best C is 100
+holdout 1 of 10
+in holdout 1 best C is 0.1
+holdout 2 of 10
+in holdout 2 best C is 0.01
+holdout 3 of 10
+in holdout 3 best C is 0.005
+holdout 4 of 10
+in holdout 4 best C is 0.5
+holdout 5 of 10
+in holdout 5 best C is 100
+holdout 6 of 10
+in holdout 6 best C is 100
+holdout 7 of 10
+in holdout 7 best C is 0.5
+holdout 8 of 10
+in holdout 8 best C is 0.5
+holdout 9 of 10
+in holdout 9 best C is 0.05
+Membership average values:
+RMSE: 0.358714245018
+Median: 0.0436688757007
+STDEV: 0.212732565747
+Possibility average values:
+RMSE: 0.532858101973
+Median: 0.137502897715
+STDEV: 0.340576963638
+experiments for fuzzifier $\hat\mu_{\text{exp},0.400}$ ended
+starting experiments for fuzzifier $\hat\mu_{\text{exp},0.500}$
+holdout 0 of 10
+in holdout 0 best C is 10
+holdout 1 of 10
+in holdout 1 best C is 0.05
+holdout 2 of 10
+in holdout 2 best C is 1
+holdout 3 of 10
+in holdout 3 best C is 0.05
+holdout 4 of 10
+in holdout 4 best C is 0.7
+holdout 5 of 10
+in holdout 5 best C is 0.7
+holdout 6 of 10
+in holdout 6 best C is 0.7
+holdout 7 of 10
+in holdout 7 best C is 0.01
+holdout 8 of 10
+in holdout 8 best C is 0.03
+holdout 9 of 10
+in holdout 9 best C is 100
+Membership average values:
+RMSE: 0.387755813162
+Median: 0.0168683727608
+STDEV: 0.226175875761
+Possibility average values:
+RMSE: 0.557078019259
+Median: 0.221202531068
+STDEV: 0.26510067623
+experiments for fuzzifier $\hat\mu_{\text{exp},0.500}$ ended
